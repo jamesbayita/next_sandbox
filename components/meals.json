@@ -1,0 +1,404 @@
+[
+    {
+      "id": "W2C2000D1B",
+      "week": "2",
+      "path": "/healthy-heart",
+      "meal_day": "Monday",
+      "meal_title": "Healthy Heart",
+      "meal_type": "Breakfast",
+      "src": "https://morefitmeals.imgix.net/media/week_two/healthy_heart.png",
+      "description": null,
+      "macros": [
+        {
+          "diet": "2000",
+          "calories": "367",
+          "carbs": "43",
+          "fats": "13",
+          "protein": "23",
+          "sodium": "173",
+          "sugars": "9"
+        },
+        {
+          "diet": "1500",
+          "calories": "367",
+          "carbs": "43",
+          "fats": "13",
+          "protein": "23",
+          "sodium": "173",
+          "sugars": "9"
+        }
+      ]
+    },
+    {
+      "id": "W2C2000D1L",
+      "week": "2",
+      "path": "/turkey-feast",
+      "meal_day": "Monday",
+      "meal_title": "Turkey Feast",
+      "meal_type": "Lunch",
+      "src": "https://morefitmeals.imgix.net/media/week_two/turkey_feast.png",
+      "description": null,
+      "macros": [
+        {
+          "diet": "2000",
+          "calories": "512",
+          "carbs": "58",
+          "fats": "18",
+          "protein": "41",
+          "sodium": "241",
+          "sugars": "10"
+        },
+        {
+          "diet": "1500",
+          "calories": "512",
+          "carbs": "58",
+          "fats": "18",
+          "protein": "41",
+          "sodium": "241",
+          "sugars": "10"
+        }
+      ]
+    },{
+      "id": "W2C2000D1D",
+      "week": "2",
+      "path": "/ceviche",
+      "meal_day": "Monday",
+      "meal_title": "Ceviche",
+      "meal_type": "Dinner",
+      "src": "https://morefitmeals.imgix.net/weekTwo/ceviche.png",
+      "description": null,
+      "macros": [
+        {
+          "diet": "2000",
+          "calories": "364",
+          "carbs": "22",
+          "fats": "15",
+          "protein": "37",
+          "sodium": "363",
+          "sugars": "3"
+        },
+        {
+          "diet": "1500",
+          "calories": "364",
+          "carbs": "22",
+          "fats": "15",
+          "protein": "37",
+          "sodium": "363",
+          "sugars": "3"
+        }
+      ]
+    },{
+      "id": "W2C2000D2B",
+      "week": "2",
+      "path": "/veggie-muffins",
+      "meal_day": "Tuesday",
+      "meal_title": "Veggie Muffins",
+      "meal_type": "Breakfast",
+      "src": "https://morefitmeals.imgix.net/weekTwo/veggie-muffins.png",
+      "description": null,
+      "macros": [{
+          "diet":"2000",
+          "calories": "296",
+          "carbs": "27",
+          "fats": "14",
+          "protein": "16",
+          "sodium": "256",
+          "sugars": "5"
+      },{
+          "diet":"1500",
+          "calories": "296",
+          "carbs": "27",
+          "fats": "14",
+          "protein": "16",
+          "sodium": "256",
+          "sugars": "5"
+      }]
+  },{
+      "id": "W2C2000D2L",
+      "week": "2",
+      "path": "/fish-and-chips",
+      "meal_day": "Tuesday",
+      "meal_title": "Fish & Chips",
+      "meal_type": "Lunch",
+      "src": "https://morefitmeals.imgix.net/weekTwo/fish_and_chips.png",
+      "description": null,
+      "macros": [{
+          "diet":"2000",
+          "calories": "296",
+          "carbs": "27",
+          "fats": "14",
+          "protein": "16",
+          "sodium": "256",
+          "sugars": "5"
+      },{
+          "diet":"1500",
+          "calories": "296",
+          "carbs": "27",
+          "fats": "14",
+          "protein": "16",
+          "sodium": "256",
+          "sugars": "5"
+      }]
+  },{
+      "id": "W2C2000D2D",
+      "week": "2",
+      "path": "/chicken-tinga",
+      "meal_day": "Tuesday",
+      "meal_title": "Chicken Tinga",
+      "meal_type": "Dinner",
+      "src": "https://morefitmeals.imgix.net/weekTwo/chicken_tinga.png",
+      "description": null,
+      "macros": [{
+          "diet":"2000",
+          "calories": "296",
+          "carbs": "27",
+          "fats": "14",
+          "protein": "16",
+          "sodium": "256",
+          "sugars": "5"
+      },{
+          "diet":"1500",
+          "calories": "296",
+          "carbs": "27",
+          "fats": "14",
+          "protein": "16",
+          "sodium": "256",
+          "sugars": "5"
+      }]
+  },{
+      "id": "W2C2000D3B",
+      "week": "2",
+      "path": "/mf-casserole",
+      "meal_day": "Wednesday",
+      "meal_title": "Morefit Casserole",
+      "meal_type": "Breakfast",
+      "src": "https://morefitmeals.imgix.net/weekTwo/morefit_casserole.png",
+      "description": null,
+      "macros": [{
+          "diet":"2000",
+          "calories": "296",
+          "carbs": "27",
+          "fats": "14",
+          "protein": "16",
+          "sodium": "256",
+          "sugars": "5"
+      },{
+          "diet":"1500",
+          "calories": "296",
+          "carbs": "27",
+          "fats": "14",
+          "protein": "16",
+          "sodium": "256",
+          "sugars": "5"
+      }]
+  },{
+      "id": "W2C2000D3L",
+      "week": "2",
+      "path": "/seafood-bowl",
+      "meal_day": "Tuesday",
+      "meal_title": "Seafood Bowl",
+      "meal_type": "Lunch",
+      "src": "https://morefitmeals.imgix.net/weekTwo/seafood_bowl.png",
+      "description": null,
+      "macros": [{
+          "diet":"2000",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      },{
+          "diet":"1500",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      }]
+  },{
+      "id": "W2C2000D3D",
+      "week": "2",
+      "path": "/beet-salad",
+      "meal_day": "Wednesday",
+      "meal_title": "Beet Salad",
+      "meal_type": "Dinner",
+      "src": "https://morefitmeals.imgix.net/weekTwo/beet_salad.png",
+      "description": null,
+      "macros": [{
+          "diet":"2000",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      },{
+          "diet":"1500",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      }]
+  },{
+      "id": "W2C2000D4B",
+      "week": "2",
+      "path": "/eggwhite-breakfast-muffins",
+      "meal_day": "Thursday",
+      "meal_title": "Eggwhite Breakfast Muffins",
+      "meal_type": "Breakfast",
+      "src": "https://morefitmeals.imgix.net/weekTwo/breakfast_muffins.png",
+      "description": null,
+      "macros": [{
+          "diet":"2000",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      },{
+          "diet":"1500",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      }]
+  },{
+      "id": "W2C2000D4L",
+      "week": "2",
+      "path": "/creamy-pasta",
+      "meal_day": "Thursday",
+      "meal_title": "Creamy Pasta",
+      "meal_type": "Lunch",
+      "src": "https://morefitmeals.imgix.net/weekTwo/creamy_pasta.png",
+      "description": null,
+      "macros": [{
+          "diet":"2000",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      },{
+          "diet":"1500",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      }]
+  },{
+      "id": "W2C2000D4D",
+      "week": "2",
+      "path": "/steak-salad",
+      "meal_day": "Thursday",
+      "meal_title": "Steak Salad",
+      "meal_type": "Dinner",
+      "src": "https://morefitmeals.imgix.net/weekTwo/steak_salad.png",
+      "description": null,
+      "macros": [{
+          "diet":"2000",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      },{
+          "diet":"1500",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      }]
+  },{
+      "id": "W2C2000D5B",
+      "week": "2",
+      "path": "/americano-omelette",
+      "meal_day": "Frida",
+      "meal_title": "Americano Omlette",
+      "meal_type": "Breakfast",
+      "src": "https://morefitmeals.imgix.net/weekTwo/steak_salad.png",
+      "description": null,
+      "macros": [{
+          "diet":"2000",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      },{
+          "diet":"1500",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      }]
+  },{
+      "id": "W2C2000D5L",
+      "week": "2",
+      "path": "/chicken-kabob",
+      "meal_day": "Friday",
+      "meal_title": "Chicken Kabob",
+      "meal_type": "Lunch",
+      "src": "https://morefitmeals.imgix.net/weekTwo/steak_salad.png",
+      "description": null,
+      "macros": [{
+          "diet":"2000",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      },{
+          "diet":"1500",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      }]
+  },{
+      "id": "W2C2000D5D",
+      "week": "2",
+      "path": "/morefit-salad",
+      "meal_day": "Friday",
+      "meal_title": "Morefit Salad",
+      "meal_type": "Dinner",
+      "src": "https://morefitmeals.imgix.net/weekTwo/morefit_salad.png",
+      "description": null,
+      "macros": [{
+          "diet":"2000",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      },{
+          "diet":"1500",
+          "calories": "589",
+          "carbs": "67",
+          "fats": "16",
+          "protein": "42",
+          "sodium": "405g",
+          "sugars": "17g"
+      }]
+  }
+  ]
+  
